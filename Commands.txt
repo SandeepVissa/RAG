@@ -1,0 +1,10 @@
+pip install uv
+uv init
+uv venv
+create requirements.txt
+uv add -r requirements.txt
+create folder 0-DataIngestionParsing
+uv add ipykernel
+
+1-dataingestion.ipynb
+
