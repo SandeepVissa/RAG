@@ -8,3 +8,8 @@ uv add ipykernel
 
 1-dataingestion.ipynb
 
+'git config http.postBuffer 524288000' followed by 'git pull && git push' -> incase of ide git push failures.
+
+
+uv add python-docx
+uv add docx2txt
